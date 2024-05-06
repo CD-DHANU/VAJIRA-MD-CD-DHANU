@@ -40,34 +40,7 @@ WORK_TYPE: process.env.WORK_TYPE || 'public'  ,
 ANTI_LINK: process.env.ANTI_LINK || false  ,
 ANTI_BOT: process.env.ANTI_BOT || false  ,
 OWNER_NUMBER: process.env.OWNER_NUMBER || '94721183470'  ,    
-ALIVE: process.env.ALIVE || `💠═════════════════⃟❖◉◉◉
-║                        🔰🄲🄳-🄼🄰🅇🔰
-◦◎◎◯┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉◯◎◎◦
-▒ █▀▀█ █░░░ ▀█▀ ▌▒▒▐ █▀▀▀ ▒
-▒ █▄▄█ █░░░ ░█░ ▚░░▞ █▄▄▄ ▒
-▒ █░▒█ █▄▄█ ▄█▄ ▒▚▞▒ █▄▄▄ ▒
-◦◎◎◯┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉◯◎◎◦
-║
-╟─╮⃟̻̻ˍ̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻˶̻̻̻̻̻̻̻̻̻̻̋̋
-🄳⃝  │┈┈◉◉◈🔹ʙᴏᴛ ɴᴀᴍᴇ🔹◈◉┈┈┈
-🄷⃝  │      𝐂𝐃-𝐌𝐀𝐗-𝐃𝐇𝐀𝐍𝐔
-🄰⃝  │
-🄽⃝  │┈┈┈◉◉◈🔹ᴏᴡɴᴇʀ🔹◈◉◉┈┈┈
-🅄⃝  │     𝐌𝐑 𝐂𝐡𝐚𝐭𝐡𝐮𝐫𝐚 𝐃𝐡𝐚𝐧𝐮𝐬𝐡𝐤𝐚
-║   │
-║   ╰─ͨ─ͩ──ͫ─ͣ─ͯ───────⃟⃟̻̻̻̻̻̻̻̻̻̻̻🔘̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻̻⃟ʺʺ̻̻̻̻̻̻̻̻
-║
-║       ▛▜▂▛▜  ▛▜
-║       ▙▟▔▙▟  ▙▟ ●●●●👋
-║  *ᗯEᒪᑕOᗰE.to.whatsapp bot*
-║
-║ 🔖𝘸𝘢𝘯𝘵 𝘵𝘰 𝘨𝘦𝘵 𝘢𝘭𝘭 𝘤𝘰𝘮𝘮𝘢𝘯𝘥?
-║        ❃ 𝘵𝘺𝘱𝘦 & 𝘴𝘦𝘯𝘥-  .𝗺𝗲𝗻𝘂
- ◉◈●┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅●◈◉
-  ░▒▒▓▓▓▓VAJIRA-MD▓▓▓▓▒▒░
- ◉◈●┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅●◈◉
-║
-╰══════════════════⃟❖◉◉◉`,
+ALIVE: process.env.ALIVE || `default`,
 OWNER_NAME: process.env.OWNER_NAME || 'DHANU' ,     
 AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || false  ,    
 AUTO_VOICE:  process.env.AUTO_VOICE  || true  ,
